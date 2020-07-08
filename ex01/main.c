@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
         }
         memset(bufPath, 0, 255);
         memcpy(bufPath, argv[lastIndex], strlen(argv[lastIndex]));
-        strncat(bufPath, "/", 1);
+        strcat(bufPath, "/");
         strncat(bufPath, argv[i], strlen(argv[i]));
         printf("%s\n",bufPath);
         dest = fopen(bufPath, "w");
