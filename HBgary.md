@@ -11,15 +11,15 @@
 
 ## 1. 기술적인 문제는 무엇인지
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
+  - 
+  - 
 
 ## 2. 실무자가 원했던 기능은 무엇인지
 
-  - Drag and drop images (requires your Dropbox account be linked)
+  - 
   - 
 
 ## 3. HBgary의 문제점은 무엇인지
 
-  - Drag and drop images (requires your Dropbox account be linked)
+  - 
   - 
