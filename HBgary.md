@@ -1,9 +1,6 @@
 # BoB 9th
 #### 이강석멘토님 과제 [9팀]
 
-[![N|Solid](https://www.kitribob.kr/static/front/images/about/bob-logo.png)](https://www.kitribob.kr/)
-
-###### 주제 : Wikileak에 노출된 메일을 읽어보면서 실무자 입장 & HBgary 입장 정리
 
 ## HBGary vs Client
 
